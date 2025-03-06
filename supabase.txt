@@ -1,0 +1,16 @@
+supabase psw tocBak-cewmun-5nerwa
+onID Dashboard
+
+project url  https://fujskhtscwigmookcctd.supabase.co
+API key eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ1anNraHRzY3dpZ21vb2tjY3RkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDExODYxNDYsImV4cCI6MjA1Njc2MjE0Nn0.wIW_WkUcIXEmLJmBrMEArO5QIdkWs_6M2fpYym0a978
+
+javascript
+import { createClient } from '@supabase/supabase-js'
+
+const supabaseUrl = 'https://fujskhtscwigmookcctd.supabase.co'
+const supabaseKey = process.env.SUPABASE_KEY
+const supabase = createClient(supabaseUrl, supabaseKey)
+
+Inserisci una email (es. test@example.com) e una password (es. password123)
+
+
